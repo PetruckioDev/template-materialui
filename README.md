@@ -1,5 +1,11 @@
 # Aplicação React de Gerenciamento de Projetos e Tarefas
 
+## Itens alterados: 
+
+1. Componente de contador de status da Tarefas.
+2. Adicionar negrito ao cabeçalho da coluna.
+3. Data formatada no formato dd/MM/yyyy
+
 Projeto criado com as bibliotecas React JS e Material UI.
 
 ## Passo-a-passo para execução
